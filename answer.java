@@ -7,6 +7,7 @@ public class answer {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 studying("name");
+		 studying1("ROMIL");
 		
 		
 		 
@@ -23,8 +24,19 @@ public class answer {
 		{
 		System.out.println("Nobody is studying");
 		}
+	
 		return " ";
 	}
+	public static String studying1(String name2)
+	{
+		  String Str = new String("ROMIL IS STUDYING");
+
+	      System.out.print("Return Value :" );
+	      System.out.println(Str.toUpperCase() );
+	      return name2;
+	}
+		
+	
 	
 
 }
