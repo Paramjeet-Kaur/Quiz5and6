@@ -29,7 +29,7 @@ public class answer {
 	}
 	public static String studying1(String name2)
 	{
-		  String Str = new String("ROMIL IS STUDYING");
+		  String Str = new String("Romil is studying");
 
 	      System.out.print("Return Value :" );
 	      System.out.println(Str.toUpperCase() );
