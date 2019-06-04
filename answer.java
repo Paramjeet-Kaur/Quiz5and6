@@ -19,10 +19,10 @@ public class answer {
 		{
 		System.out.println(name1 + " is studying");
 		}
-		//else if (name1.equals("null"));
-		//{
-		//System.out.println("Nobody is studying");
-		//}
+		else if (name1.equals("null"));
+		{
+		System.out.println("Nobody is studying");
+		}
 		return " ";
 	}
 	
